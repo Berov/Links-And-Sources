@@ -8,4 +8,5 @@
 5. [Daichi Furiya's Repo](https://github.com/wasabeef?tab=repositories)
 6. [Animation effects with custom font support to TextView](https://github.com/hanks-zyh/HTextView)
 7. [Android View Animations ](https://github.com/daimajia/AndroidViewAnimations)
+8. [android-guidelines](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md)
 
