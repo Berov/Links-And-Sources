@@ -12,5 +12,7 @@
 9. [Android Guidelines 2](https://github.com/umesh0492/android-guidelines)
 10. [Firebase functions-samples](https://github.com/firebase/functions-samples)
 11. [Calligraphy](https://github.com/chrisjenx/Calligraphy)
+12. [Must Have Libraries](https://github.com/codepath/android_guides/wiki/Must-Have-Libraries)
+13. [Android developer portal with tools, libraries, and apps](https://android-arsenal.com/)
 
 
