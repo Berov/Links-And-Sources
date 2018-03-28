@@ -19,6 +19,6 @@
 
 ## Intents
 - [Android Intents - Tutorial](http://www.vogella.com/tutorials/AndroidIntent/article.html#usingintents_call) 
-- [Android Intents - Tutorial](http://www.vogella.com/tutorials/AndroidIntent/article.html#usingintents_call) 
-- [Android Intents - Tutorial](http://www.vogella.com/tutorials/AndroidIntent/article.html#usingintents_call) 
+- [Common Intents](https://developer.android.com/guide/components/intents-common.html#Music) 
+- []() 
 
