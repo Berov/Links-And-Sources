@@ -16,4 +16,9 @@
 12. [Must Have Libraries](https://github.com/codepath/android_guides/wiki/Must-Have-Libraries)
 13. [Android developer portal with tools, libraries, and apps](https://android-arsenal.com/)
 14. [Drag and Drop](https://www.youtube.com/watch?v=H3qr1yK6u3M)
-15. [Android Intents - Tutorial](http://www.vogella.com/tutorials/AndroidIntent/article.html#usingintents_call) 
+
+## Intents
+- [Android Intents - Tutorial](http://www.vogella.com/tutorials/AndroidIntent/article.html#usingintents_call) 
+- [Android Intents - Tutorial](http://www.vogella.com/tutorials/AndroidIntent/article.html#usingintents_call) 
+- [Android Intents - Tutorial](http://www.vogella.com/tutorials/AndroidIntent/article.html#usingintents_call) 
+
