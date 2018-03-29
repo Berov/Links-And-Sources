@@ -17,7 +17,7 @@
 13. [Android developer portal with tools, libraries, and apps](https://android-arsenal.com/)
 14. [Drag and Drop](https://www.youtube.com/watch?v=H3qr1yK6u3M)
 
-[Namespace trick](https://www.youtube.com/watch?time_continue=108&v=-hFzRMwiITY)
+
 
 
 
@@ -30,3 +30,4 @@
 - [Google I/O 2010 - The world of ListView](https://www.youtube.com/watch?v=wDBM6wVEO70) 
 - [Using an ArrayAdapter with ListView](https://github.com/codepath/android_guides/wiki/Using-an-ArrayAdapter-with-ListView) 
 - [Grid View](https://developer.android.com/guide/topics/ui/layout/gridview.html)
+- [Build List Item Layout](https://www.youtube.com/watch?time_continue=108&v=-hFzRMwiITY)
