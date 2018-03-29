@@ -17,8 +17,7 @@
 13. [Android developer portal with tools, libraries, and apps](https://android-arsenal.com/)
 14. [Drag and Drop](https://www.youtube.com/watch?v=H3qr1yK6u3M)
 
-
-
+[Tools Attributes Reference](https://developer.android.com/studio/write/tool-attributes.html)
 
 
 ## Intents
