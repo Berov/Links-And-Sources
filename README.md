@@ -17,6 +17,10 @@
 13. [Android developer portal with tools, libraries, and apps](https://android-arsenal.com/)
 14. [Drag and Drop](https://www.youtube.com/watch?v=H3qr1yK6u3M)
 
+[Namespace trick](https://www.youtube.com/watch?time_continue=108&v=-hFzRMwiITY)
+
+
+
 ## Intents
 - [Android Intents - Tutorial](http://www.vogella.com/tutorials/AndroidIntent/article.html#usingintents_call) 
 - [Common Intents](https://developer.android.com/guide/components/intents-common.html#Music) 
