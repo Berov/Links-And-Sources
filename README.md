@@ -30,3 +30,4 @@
 - [Using an ArrayAdapter with ListView](https://github.com/codepath/android_guides/wiki/Using-an-ArrayAdapter-with-ListView) 
 - [Grid View](https://developer.android.com/guide/topics/ui/layout/gridview.html)
 - [Build List Item Layout](https://www.youtube.com/watch?time_continue=108&v=-hFzRMwiITY)
+- [Custom Adapter Sample App](https://github.com/udacity/ud839_CustomAdapter_Example)
