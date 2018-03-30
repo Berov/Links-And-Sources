@@ -31,3 +31,8 @@
 - [Grid View](https://developer.android.com/guide/topics/ui/layout/gridview.html)
 - [Build List Item Layout](https://www.youtube.com/watch?time_continue=108&v=-hFzRMwiITY)
 - [Custom Adapter Sample App](https://github.com/udacity/ud839_CustomAdapter_Example)
+
+## Gradle
+- [Why Gradle](https://www.youtube.com/watch?v=VOUmY4_hPeM)
+- [Gradle](https://developer.android.com/studio/build/index.html)
+
