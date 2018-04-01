@@ -38,5 +38,11 @@
 
 ## Wi-Fi
 - [Wi-Fi Peer-to-Peer](https://developer.android.com/guide/topics/connectivity/wifip2p.html)
+-[Socket Server/Client with two Android devices](https://stackoverflow.com/questions/10825317/socket-server-client-with-two-android-devices)
+-[Socket Programming WIFI Chat APP For Android Smartphone](https://www.researchgate.net/publication/303737681_Socket_Programming_WIFI_Chat_APP_For_Android_Smartphone)
+-[TooTallNate/Java-WebSocket](https://github.com/TooTallNate/Java-WebSocket)
+
+
+
 
 
