@@ -37,6 +37,6 @@
 - [Gradle](https://developer.android.com/studio/build/index.html)
 
 ## Wi-Fi
-[Wi-Fi Peer-to-Peer](https://developer.android.com/guide/topics/connectivity/wifip2p.html)
+- [Wi-Fi Peer-to-Peer](https://developer.android.com/guide/topics/connectivity/wifip2p.html)
 
 
