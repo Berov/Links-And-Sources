@@ -36,3 +36,7 @@
 - [Why Gradle](https://www.youtube.com/watch?v=VOUmY4_hPeM)
 - [Gradle](https://developer.android.com/studio/build/index.html)
 
+## Wi-Fi
+[Wi-Fi Peer-to-Peer](https://developer.android.com/guide/topics/connectivity/wifip2p.html)
+
+
