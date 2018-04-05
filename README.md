@@ -50,7 +50,8 @@
 ## TV
 - [Android TV Leanback Support Library sample - Videos by Google](https://github.com/googlesamples/androidtv-Leanback)
 
-
+## Git
+- [GIT CHEAT SHEET](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ## Interview
 - [AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A/tree/master/english)
