@@ -17,6 +17,7 @@
 13. [Android developer portal with tools, libraries, and apps](https://android-arsenal.com/)
 14. [Drag and Drop](https://www.youtube.com/watch?v=H3qr1yK6u3M)
 
+- [Handling Orientation Changes on Android](http://code.hootsuite.com/orientation-changes-on-android/#more-3237)
 - [25 Android libraries you definitely want to try out in early 2017](https://medium.freecodecamp.org/25-new-android-libraries-which-you-definitely-want-to-try-at-the-beginning-of-2017-45878d5408c0)
 
 [Tools Attributes Reference](https://developer.android.com/studio/write/tool-attributes.html)
