@@ -26,6 +26,7 @@
 ## Intents
 - [Android Intents - Tutorial](http://www.vogella.com/tutorials/AndroidIntent/article.html#usingintents_call) 
 - [Common Intents](https://developer.android.com/guide/components/intents-common.html#Music) 
+- [Udacity - Implicit vs. Explicit Intents](https://www.youtube.com/watch?time_continue=209&v=5EdznObvpAM)
 
 ## ListView
 - [Using an ArrayAdapter with ListView](https://guides.codepath.com/android/Using-an-ArrayAdapter-with-ListView) 
