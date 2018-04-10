@@ -54,6 +54,8 @@
 ## MediaPlayer
 - [Android - MediaPlayer](http://www.tutorialspoint.com/android/android_mediaplayer.htm)
 - [MediaPlayer](https://developer.android.com/guide/topics/media/mediaplayer.html)
+- [Media playback the right way (Big Android BBQ 2015)](https://www.youtube.com/watch?v=XQwe30cZffg)
+- [Best practices in media playback - Google I/O 2016](https://www.youtube.com/watch?v=iIKxyDRjecU)
 
 ## TV
 - [Android TV Leanback Support Library sample - Videos by Google](https://github.com/googlesamples/androidtv-Leanback)
