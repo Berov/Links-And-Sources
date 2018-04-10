@@ -57,6 +57,7 @@
 - [Media playback the right way (Big Android BBQ 2015)](https://www.youtube.com/watch?v=XQwe30cZffg)
 - [Best practices in media playback - Google I/O 2016](https://www.youtube.com/watch?v=iIKxyDRjecU)
 - [How to _properly_ handle audio interruptions](https://medium.com/google-developers/how-to-properly-handle-audio-interruptions-3a13540d18fa)
+- [AudioManager](https://developer.android.com/reference/android/media/AudioManager.html)
 
 ## Services
 - [Services](https://developer.android.com/guide/components/services.html)
