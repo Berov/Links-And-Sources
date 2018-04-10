@@ -51,6 +51,9 @@
 - [Connect Two Android Devices over WiFi using Network Service Disocvery](http://www.jayrambhia.com/blog/android-wireless-connection-1)
 - [Transfer data from Client to Server using Sockets](http://www.jayrambhia.com/blog/android-wireless-connection-2)
 
+## MediaPlayer
+- [Android - MediaPlayer](http://www.tutorialspoint.com/android/android_mediaplayer.htm)
+
 ## TV
 - [Android TV Leanback Support Library sample - Videos by Google](https://github.com/googlesamples/androidtv-Leanback)
 
