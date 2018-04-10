@@ -53,6 +53,7 @@
 
 ## MediaPlayer
 - [Android - MediaPlayer](http://www.tutorialspoint.com/android/android_mediaplayer.htm)
+- [MediaPlayer](https://developer.android.com/guide/topics/media/mediaplayer.html)
 
 ## TV
 - [Android TV Leanback Support Library sample - Videos by Google](https://github.com/googlesamples/androidtv-Leanback)
