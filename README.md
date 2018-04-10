@@ -58,6 +58,9 @@
 - [Best practices in media playback - Google I/O 2016](https://www.youtube.com/watch?v=iIKxyDRjecU)
 - [How to _properly_ handle audio interruptions](https://medium.com/google-developers/how-to-properly-handle-audio-interruptions-3a13540d18fa)
 
+## Services
+- [Services](https://developer.android.com/guide/components/services.html)
+
 ## TV
 - [Android TV Leanback Support Library sample - Videos by Google](https://github.com/googlesamples/androidtv-Leanback)
 
