@@ -25,6 +25,8 @@
 ## Material
 - [Ripple Animation](https://guides.codepath.com/android/ripple-animation)
 
+## UI Patterns
+- [android patterns](https://pttrns.com/android-patterns?srtby=popularity_desc)
 
 ## Intents
 - [Android Intents - Tutorial](http://www.vogella.com/tutorials/AndroidIntent/article.html#usingintents_call) 
