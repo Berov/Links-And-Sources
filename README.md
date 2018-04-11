@@ -59,6 +59,7 @@
 - [How to _properly_ handle audio interruptions](https://medium.com/google-developers/how-to-properly-handle-audio-interruptions-3a13540d18fa)
 - [AudioManager](https://developer.android.com/reference/android/media/AudioManager.html)
 - [Audio Focus States](https://www.youtube.com/watch?time_continue=25&v=Hy1HuPNWT-8)
+- [Managing Audio Focus](https://developer.android.com/guide/topics/media-apps/audio-focus.html)
 
 ## Services
 - [Services](https://developer.android.com/guide/components/services.html)
