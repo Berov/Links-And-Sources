@@ -27,6 +27,7 @@
 
 ## UI Patterns
 - [android patterns](https://pttrns.com/android-patterns?srtby=popularity_desc)
+- [Providing Up Navigation](https://developer.android.com/training/implementing-navigation/ancestral.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
 
 ## Intents
 - [Android Intents - Tutorial](http://www.vogella.com/tutorials/AndroidIntent/article.html#usingintents_call) 
