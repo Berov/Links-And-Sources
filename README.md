@@ -22,6 +22,9 @@
 
 [Tools Attributes Reference](https://developer.android.com/studio/write/tool-attributes.html)
 
+## Material
+- [Ripple Animation](https://guides.codepath.com/android/ripple-animation)
+
 
 ## Intents
 - [Android Intents - Tutorial](http://www.vogella.com/tutorials/AndroidIntent/article.html#usingintents_call) 
