@@ -29,6 +29,7 @@
 - [android patterns](https://pttrns.com/android-patterns?srtby=popularity_desc)
 - [Providing Up Navigation](https://developer.android.com/training/implementing-navigation/ancestral.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
 - [Navigation with Back and Up](https://developer.android.com/design/patterns/navigation.html)
+- [Android Development Patterns](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM)
 
 ## Intents
 - [Android Intents - Tutorial](http://www.vogella.com/tutorials/AndroidIntent/article.html#usingintents_call) 
