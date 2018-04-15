@@ -3,7 +3,6 @@
 
 1.  [Useful Tools for Android Developers](https://github.com/popnfresh234/udacity_android_resources)
 2. [Android ImageView ScaleType](https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide)
-3. [Git Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet)
 4. [List of Android Libraries](https://github.com/wasabeef/awesome-android-libraries)
 4. [List of Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui)
 5. [Daichi Furiya's Repo](https://github.com/wasabeef?tab=repositories)
@@ -78,12 +77,19 @@
 
 ## Git
 - [GIT CHEAT SHEET](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Git Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet)
 
 ## Java
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 
 ## Interview
 - [AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A/tree/master/english)
+
+## For My App
+### Android to PC
+- [Send data from Android to PC using TCP in Android Studio & Netbeans Tutorial](https://www.youtube.com/watch?v=7QNJvxXCYOY)
+### Android to Android
+- [How to create TCP server in Android - Tutorial](https://www.youtube.com/watch?v=vgIa_zUim40)
 
 
 
