@@ -93,6 +93,8 @@
 - [Send data from Android to PC using TCP in Android Studio & Netbeans Tutorial](https://www.youtube.com/watch?v=7QNJvxXCYOY)
 ### Android to Android
 - [How to create TCP server in Android - Tutorial](https://www.youtube.com/watch?v=vgIa_zUim40)
+### From Android
+- [Adding a webserver to an Android app ](http://www.integratingstuff.com/2011/10/24/adding-a-webserver-to-an-android-app/)
 
 
 
