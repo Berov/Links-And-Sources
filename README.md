@@ -91,6 +91,7 @@
 # For My App
 ### Android to PC
 - [Send data from Android to PC using TCP in Android Studio & Netbeans Tutorial](https://www.youtube.com/watch?v=7QNJvxXCYOY)
+- [Android to PC Java TCP Sockets Tutorial Android Studio](https://www.youtube.com/watch?v=9Rwopuah2Q0)
 ### Android to Android
 - [How to create TCP server in Android - Tutorial](https://www.youtube.com/watch?v=vgIa_zUim40)
 ### From Android
