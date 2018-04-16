@@ -20,7 +20,7 @@
 - [Handling Orientation Changes on Android](http://code.hootsuite.com/orientation-changes-on-android/#more-3237)
 - [25 Android libraries you definitely want to try out in early 2017](https://medium.freecodecamp.org/25-new-android-libraries-which-you-definitely-want-to-try-at-the-beginning-of-2017-45878d5408c0)
 
-# [Android Development Patterns](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM)
+- # [Android Development Patterns](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM)
 
 [Tools Attributes Reference](https://developer.android.com/studio/write/tool-attributes.html)
 
