@@ -22,6 +22,7 @@
 - NB [Android Development Patterns](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc-lJo_RGGXL2Psr8vVCTWjM)
 - NBNB [MaterialViewPager](https://github.com/florent37/MaterialViewPager)
 - [Create a Parallax Scrolling Header with Tabs](https://android.jlelse.eu/parallax-scrolling-header-tabs-android-tutorial-2cc6e40aa257)
+- [Creating the Flexible Space with Image Pattern on Android](https://android.jlelse.eu/creating-the-flexible-space-with-image-pattern-on-android-b5f8908b9921)
 
 [Tools Attributes Reference](https://developer.android.com/studio/write/tool-attributes.html)
 
