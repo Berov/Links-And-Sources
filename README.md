@@ -72,6 +72,7 @@
 - [AudioManager](https://developer.android.com/reference/android/media/AudioManager.html)
 - [Audio Focus States](https://www.youtube.com/watch?time_continue=25&v=Hy1HuPNWT-8)
 - [Managing Audio Focus](https://developer.android.com/guide/topics/media-apps/audio-focus.html)
+- NB [Android MediaPlayer and VideoView Tutorial](https://o7planning.org/en/10487/android-mediaplayer-and-videoview-tutorial)
 
 ## Services
 - [Services](https://developer.android.com/guide/components/services.html)
