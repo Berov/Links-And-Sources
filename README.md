@@ -79,8 +79,8 @@
 
 ## AsyncTask
 - [AsyncTask Callback Methods](https://www.youtube.com/watch?time_continue=253&v=73s3KL1QiTs)
-- []()
 - [AsyncTask Generic Parameters](https://www.youtube.com/watch?time_continue=151&v=yyBTehlr0lU)
+- [Inner Classes](https://www.youtube.com/watch?time_continue=48&v=pnB9LyXjhPg)
 
 ## TV
 - [Android TV Leanback Support Library sample - Videos by Google](https://github.com/googlesamples/androidtv-Leanback)
