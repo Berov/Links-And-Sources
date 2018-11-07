@@ -32,6 +32,7 @@
 - [Ajax - PHP](https://www.youtube.com/watch?v=RxwKNd0kTm0&list=PL7K_NRckWQJb_dzXTojmuVATo0NWIUhY7&index=11)
 - [Using REST APIs in a web application | Quick PHP Tutorial](https://www.youtube.com/watch?v=RTjd1nwvlj4)
 - [PHP Caching / Cache Tutorial ](https://www.youtube.com/watch?v=fdpnT2iPYS0)
+- [Sign in with Google PHP API, Sockets...](https://www.youtube.com/channel/UCcdO8ke6m8MeC-XYOpUpxwQ/videos)
 
 
 ## Material
