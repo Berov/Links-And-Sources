@@ -33,6 +33,7 @@
 - [Using REST APIs in a web application | Quick PHP Tutorial](https://www.youtube.com/watch?v=RTjd1nwvlj4)
 - [PHP Caching / Cache Tutorial ](https://www.youtube.com/watch?v=fdpnT2iPYS0)
 - [Sign in with Google PHP API, Sockets...](https://www.youtube.com/channel/UCcdO8ke6m8MeC-XYOpUpxwQ/videos)
+- [Сокеты](http://php.net/manual/ru/book.sockets.php#book.sockets)
 
 
 ## Material
