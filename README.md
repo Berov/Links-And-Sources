@@ -34,6 +34,7 @@
 - [PHP Caching / Cache Tutorial ](https://www.youtube.com/watch?v=fdpnT2iPYS0)
 - [Sign in with Google PHP API, Sockets...](https://www.youtube.com/channel/UCcdO8ke6m8MeC-XYOpUpxwQ/videos)
 - [Сокеты](http://php.net/manual/ru/book.sockets.php#book.sockets)
+- [Telerik Academy - Node.js, Sockets, AJAX...](https://www.youtube.com/user/TelerikAcademy/search?query=websocket)
 
 
 ## Material
