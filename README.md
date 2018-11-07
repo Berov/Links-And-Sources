@@ -36,6 +36,9 @@
 - [Сокеты](http://php.net/manual/ru/book.sockets.php#book.sockets)
 - [Telerik Academy - Node.js, Sockets, AJAX...](https://www.youtube.com/user/TelerikAcademy/search?query=websocket)
 
+## Kotlin
+- [Руководство по языку Kotlin](https://kotlinlang.ru/)
+
 
 ## Material
 - [Ripple Animation](https://guides.codepath.com/android/ripple-animation)
